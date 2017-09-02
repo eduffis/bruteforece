@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #http://190.x.x.x/PSIA/Custom/SelfExt/userCheck (victem)
 #Dictionary attack for DVR - camara HIKVision
+#Use: ./bruteDVR.py url -d
 import urllib2,sys,base64,time
 import string 
 
